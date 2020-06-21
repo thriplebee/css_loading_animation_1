@@ -8,4 +8,4 @@ CSS3
 
 =============================
 
-You can commit to this project
+You are welcome to update this source code it it contains any misss matches
